@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{06B5B891-930E-4E0B-8506-8D0B83C6E8B6}|Default">
-  <MonoDevelop.Ide.ItemProperties.ACCreatures FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ACCreatures PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ACCreatures" expanded="True" selected="True">
+            <Node name="ACCreatures" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
