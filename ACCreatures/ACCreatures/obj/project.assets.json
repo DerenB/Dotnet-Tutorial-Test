@@ -20,7 +20,7 @@
       "outputPath": "/Users/deren/Documents/GitHub/DotNet/Dotnet-Creatures/ACCreatures/ACCreatures/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/deren/.config/NuGet/NuGet.Config"
+        "/Users/deren/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
