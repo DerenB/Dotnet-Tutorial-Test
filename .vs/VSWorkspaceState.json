@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ACCreatures",
+    "\\ACCreatures\\ACCreatures",
+    "\\ACCreatures\\ACCreatures\\wwwroot",
+    "\\ACCreatures\\ACCreatures\\wwwroot\\lib",
+    "\\ACCreatures\\ACCreatures\\wwwroot\\lib\\bootstrap",
+    "\\ACCreatures\\ACCreatures\\wwwroot\\lib\\bootstrap\\dist",
+    "\\ACCreatures\\ACCreatures\\wwwroot\\lib\\bootstrap\\dist\\js"
+  ],
+  "SelectedNode": "\\ACCreatures\\ACCreatures\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+  "PreviewInSolutionExplorer": false
+}
