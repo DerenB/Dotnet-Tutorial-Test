@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{06B5B891-930E-4E0B-8506-8D0B83C6E8B6}|Default">
   <MonoDevelop.Ide.ItemProperties.ACCreatures PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ACCreatures/Pages/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ACCreatures/Pages/Shared/_Layout.cshtml">
     <Files>
-      <File FileName="ACCreatures/Startup.cs" Line="10" Column="1" />
-      <File FileName="ACCreatures/Program.cs" Line="1" Column="1" />
-      <File FileName="ACCreatures/Pages/Index.cshtml" Line="10" Column="53" />
+      <File FileName="ACCreatures/Pages/Index.cshtml" Line="12" Column="1" />
+      <File FileName="ACCreatures/Pages/Index.cshtml.cs" />
+      <File FileName="ACCreatures/Pages/Shared/_Layout.cshtml" Line="22" Column="83" />
+      <File FileName="ACCreatures/wwwroot/lib/bootstrap/dist/js/bootstrap.js" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,8 +13,9 @@
           <Node name="ACCreatures" expanded="True">
             <Node name="ACCreatures" expanded="True">
               <Node name="Pages" expanded="True">
-                <Node name="Shared" expanded="True" />
-                <Node name="Index.cshtml" expanded="True" selected="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
               </Node>
               <Node name="appsettings.json" expanded="True" />
             </Node>

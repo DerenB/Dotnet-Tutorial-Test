@@ -17,7 +17,24 @@ namespace ACCreatures.Pages
             _logger = logger;
         }
 
+        // Runs when the page loads
         public void OnGet()
+        {
+            // Provides a default value to First Name
+            if (string.IsNullOrEmpty(FirstName))
+            {
+                FirstName = "User";
+            }
+        }
+
+        [BindProperty(SupportsGet = true)]
+        public int Id { get; set; }
+
+        [BindProperty(SupportsGet = true)]
+        public string FirstName { get; set; }
+
+        // Runs when information is provided
+        public void OnPost()
         {
 
         }
