@@ -1,13 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SDFVKOHj/bTpY8ImXdIYyydAo2+n8ox54xgGQmWwm0olW9/JetoXXWOA/xOwlefzl+9fyCZ1kXqHPQWp+GoiIA==",
+  "dgSpecHash": "T+ZBEHQQnhGIXwPXPp2XOat/44xC+EQo8x3LLhijc19cGn0cPpgHwEBg9wz6/KFDz/2Y8eti+K7IVxNyu+2ixQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-ACNH\\Dotnet-Creatures\\ACCreatures\\ACCreatures\\ACCreatures.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\dboze\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
-    "C:\\Users\\dboze\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\dboze\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\dboze\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\dboze\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
   ],
   "logs": []
 }

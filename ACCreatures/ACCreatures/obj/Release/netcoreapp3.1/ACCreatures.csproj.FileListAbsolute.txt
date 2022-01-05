@@ -34,3 +34,4 @@ C:\Users\dboze\Documents\LocalRepo\DotNet-ACNH\Dotnet-Creatures\ACCreatures\ACCr
 C:\Users\dboze\Documents\LocalRepo\DotNet-ACNH\Dotnet-Creatures\ACCreatures\ACCreatures\obj\Release\netcoreapp3.1\ACCreatures.pdb
 C:\Users\dboze\Documents\LocalRepo\DotNet-ACNH\Dotnet-Creatures\ACCreatures\ACCreatures\obj\Release\netcoreapp3.1\ACCreatures.genruntimeconfig.cache
 C:\Users\dboze\Documents\LocalRepo\DotNet-ACNH\Dotnet-Creatures\ACCreatures\ACCreatures\obj\Release\netcoreapp3.1\ACCreatures.csproj.CopyComplete
+C:\Users\dboze\Documents\LocalRepo\DotNet-ACNH\Dotnet-Creatures\ACCreatures\ACCreatures\obj\Release\netcoreapp3.1\Razor\Pages\Forms\AddAddress.cshtml.g.cs
