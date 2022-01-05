@@ -25,7 +25,7 @@ namespace ACCreatures.Pages.Forms
                 return Page();
             }
 
-            return RedirectToPage("./Index");
+            return RedirectToPage("/Index");
         }
     }
 }
