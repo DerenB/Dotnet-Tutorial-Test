@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PHH83xgdlnHrCCgvcLCmrEPsLq7eBkLL3UsSbRW7d0yZA5DRV01fiCuxNK6+JRxTd8OrLeH7fz/EWWkvkk6Pmg==",
+  "dgSpecHash": "SDFVKOHj/bTpY8ImXdIYyydAo2+n8ox54xgGQmWwm0olW9/JetoXXWOA/xOwlefzl+9fyCZ1kXqHPQWp+GoiIA==",
   "success": true,
-  "projectFilePath": "/Users/deren/Documents/GitHub/DotNet/Dotnet-Creatures/ACCreatures/ACCreatures/ACCreatures.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\dboze\\Documents\\LocalRepo\\DotNet-ACNH\\Dotnet-Creatures\\ACCreatures\\ACCreatures\\ACCreatures.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dboze\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\dboze\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\dboze\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dboze\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
