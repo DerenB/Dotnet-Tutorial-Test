@@ -5,3 +5,11 @@
 }
 
 <h1>Add Address</h1>
+
+<form method="post">
+    <input type="text" asp-form="Address.StreetAddress" placeholder="Street Address" />
+    <input type="text" asp-form="Address.City" placeholder="City" />
+    <input type="text" asp-form="Address.State" placeholder="State" />
+    <input type="text" asp-form="Address.ZipCode" placeholder="Zip Code" />
+    <button type="submit">Submit</button>
+</form>
